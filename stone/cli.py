@@ -48,6 +48,8 @@ _builtin_backends = (
     'python_client',
     'swift_types',
     'swift_client',
+    'rs_client',
+    'rs_types',
 )
 
 # The parser for command line arguments
